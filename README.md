@@ -1,14 +1,23 @@
-# 🦀 Personal LeetCode & Niuke Solutions in Rust
+# 🦀 Rust Algorithm Practice (LeetCode & Niuke)
 
 This repository contains my algorithm practice solutions written in **Rust**.
 
-The goal of this project is to:
+## 🎯 Goals
 
-- Strengthen data structure & algorithm fundamentals
+- Strengthen data structure and algorithm fundamentals
 - Improve Rust ownership / borrowing mastery
 - Practice writing clean and efficient Rust code
 
----
+## 📊 Progress
+
+- **LeetCode solved:** `191` problems
+- **Niuke solved:** `14` problems
+- **Update rule:** a problem is counted as solved when `src/main.rs` exists in that problem directory
+
+## 📁 Directory Convention
+
+- `leetcode_<id>/src/main.rs` : LeetCode solution
+- `niuke_<id>/src/main.rs` : Niuke solution
 
 ## 🛠 Tech Stack
 
