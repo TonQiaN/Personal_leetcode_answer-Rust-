@@ -16,8 +16,8 @@ This repository contains my algorithm practice solutions written in **Rust**.
 
 ## 📁 Directory Convention
 
-- `leetcode_<id>/src/main.rs` : LeetCode solution
-- `niuke_<id>/src/main.rs` : Niuke solution
+- `leetcode/leetcode_<id>/src/main.rs` : LeetCode solution
+- `niuke/niuke_<id>/src/main.rs` : Niuke solution
 
 ## 🛠 Tech Stack
 
