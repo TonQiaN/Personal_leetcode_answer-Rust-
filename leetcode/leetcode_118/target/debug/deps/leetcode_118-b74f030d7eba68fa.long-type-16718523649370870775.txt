@@ -1,0 +1,1 @@
+std::iter::Chain<std::iter::Once<{integer}>, Map<Windows<'_, {integer}>, {closure@src/main.rs:12:46: 12:49}>>
