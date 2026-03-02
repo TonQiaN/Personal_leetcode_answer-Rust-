@@ -14,6 +14,7 @@ impl Solution {
         dp[m - 1]
     }
 }
+
 // impl Solution {
 //     pub fn min_path_sum(grid: Vec<Vec<i32>>) -> i32 {
 //         let (n, m) = (grid.len(), grid.first().map_or(0, |r0| r0.len()));
